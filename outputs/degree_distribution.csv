@@ -1,0 +1,145 @@
+id,name,type,degree
+cc9c6ee3857729e221d3f6de,ServiceNow,Company,8
+fb0f4df56fab164ec48722f0,Microsoft,Company,5
+773eeb9b7cc008bff365fcdd,OpenAI,Company,4
+7b29988cfc0dac3059f47a0e,L&T Technology Services,Company,4
+909fcd9c188c8c2429afa468,Google Cloud,Company,4
+02f50203f5a967ac3ebb42be,Ericsson,Company,3
+0e132222d1315530d6efca52,Google,Company,3
+110cfb16be66531da841ce26,Thales,Company,3
+11a955d3438e7691d3dd9800,Toast,Company,3
+1a324b330bd048e7308e53f0,artificial intelligence,Technology,3
+f4adaa883e92217c80dab7fb,ChatGPT,Technology,3
+096a4c5d3ad45de076781004,Deloitte,Company,2
+0b5463ed9470cd0575a9bcce,TalkBerry,Company,2
+1fb6f1337f1c2305d3c6fefe,H2O.ai,Company,2
+24efe6cedc09a12ec8c3eff2,Synopsys,Company,2
+261c78e541bbb8921217639a,Qualcomm,Company,2
+43a2b279a035975ab78ed013,IIIT Hyderabad,Company,2
+51e33a1bf5fff64b108c76e6,Hewlett Packard Enterprise,Company,2
+6dbfdfc5a4e8df3668a4dac3,Meta,Company,2
+7c006ebf3fc788f4d55aae68,Samsung,Company,2
+8f7a4d1cb4dfa2d5fc393f09,OX Security,Company,2
+b823fb02e58a12bdc4c38934,NVIDIA,Company,2
+ce0b6a8e50a6a58526e4c85f,Aeris,Company,2
+e23c5421d4f8b156c0c6101c,UKG,Company,2
+f089ccb4331c2e40f24953f8,Palo Alto Networks,Company,2
+fd90caf986a66450a7dd026b,Intel,Company,2
+1122f2522548d90899f803f7,FreeStyle Libre 2 sensor,Technology,2
+16ad8d99f7baef6ba9c64023,3D V-Cache Tech,Technology,2
+2b088c1a7495a477c910a268,generative AI,Technology,2
+7336290fe5f2b7f5f17dbacc,Claude 2,Technology,2
+8af8e17ecdf20a7ed7ebf6d7,Falcon LLM,Technology,2
+ace5c8e14fd34ebaf213fc3a,Now Assist for Virtual Agent,Technology,2
+afec5285c51fcb0000ca9afa,Llama 2,Technology,2
+01b433b22d620a1f8f7803c5,Accenture,Company,1
+04a67f311ceac529f1307482,ImpactData,Company,1
+0922a38889e087ee5482520c,TRG,Company,1
+0cf2f2945e5f6dc338954501,SoftBank,Company,1
+0ecbd5177fafb6f25a33707e,Aeris Communications,Company,1
+10e399da729e3d1b5247b9e2,Ping Services,Company,1
+12804432dfb47a6c621e9748,Inspire Brands Inc,Company,1
+15ec1d4c384d3944b8e7f26a,Keysight,Company,1
+17c9003d86b0e9621debca72,UCL,Company,1
+1fc54fda3a6aac9d0fd10120,IRIS Software Group,Company,1
+1ff5ced22f08f04783a6496f,Technology Innovative Institute,Company,1
+2099eee48c63ccdfbb563282,Marriott Select Service Hotels,Company,1
+250c05d94f317765c8851c04,DEWA,Company,1
+26186c57fe14a776c283d4f6,Hywin,Company,1
+261b1bde09ab934bf195475a,eologix sensor technology,Company,1
+26eff00a98da188750817013,Synergy Quantum,Company,1
+26fe01fbff18a0ced2a65600,Infosys,Company,1
+34d8935232d78dfc7a72ccb3,Cohere,Company,1
+3555f9f4a734623729b21c98,Symec Technologies,Company,1
+35c663762dedf469a841fdb9,Dell Technologies Inc.,Company,1
+35ef3113fa3905b77a2ae652,Zane State College,Company,1
+3a379cbc57559bb1f12d75cb,Brompton Technology,Company,1
+46b0753f98c67eaea8de01ee,Verizon,Company,1
+470ba462a70f59c475c8f020,Jackson Healthcare,Company,1
+482e949a0b6c21ca2b8da03e,Infineon,Company,1
+4ce2ebb1b52161e5f9d04b4e,Star Micronics,Company,1
+50b34a036bba964499871046,Eko,Company,1
+521037c3e56d17d9ac38937b,Inseego,Company,1
+52d2365dd55f191eeb19b990,Mood Media,Company,1
+530a4771a035199975564d43,Axis Security,Company,1
+5c159ca6c01a0e19f91c6ea8,KPMG,Company,1
+68b3544368862fc263941c8d,Amazon,Company,1
+6b8b046564649fd7230883dd,Dash Solutions,Company,1
+746caaaa060162969f765283,Vibenomics,Company,1
+76c61cc0517ea32ca803d3af,Independent Welding Distributors Cooperative,Company,1
+776d89f3866049239e5a9365,Tyemill,Company,1
+7b37ac825b954049bfb25264,YouWeb,Company,1
+7d87b719c7aab894bd5ffd26,Resonac,Company,1
+84c4a5886780c5443153a395,Stan Gelber & Sons Inc,Company,1
+8568cefc2b16b1699bc0d89f,Aqara,Company,1
+879eef50f3e2d235cccb1790,Snowflake,Company,1
+894487a3583e2560ae83ca4e,KyckGlobal,Company,1
+8a2938b29490bc282b8a3115,LexisNexis,Company,1
+8aaf4c8f85ca26a0418b8601,Dell,Company,1
+92218fa04c5cf4fcf24680f4,Wiliot,Company,1
+9c282c38e493c826ee79d229,Anthropic,Company,1
+a13db9241151b8c4fe050342,Symbiotic,Company,1
+a2c14f9c6385c01daba2f730,PTC,Company,1
+a36b82a476aaf441e5ace0ca,Microsoft Teams,Company,1
+a58b8cc6aa658e3bd757e389,Alibaba Cloud,Company,1
+a7a6e962938e08298ced16f7,Prolucent Health,Company,1
+acdfe7de2457e0c6f49245c1,NTT Data Payment Services,Company,1
+b29c72c5ba125a5a8487a987,TSMC,Company,1
+b48e5b3bde59dfb99454d2b8,Syntax,Company,1
+baa0aa85d4f12fb6c4cf6df8,Framework,Company,1
+bc866d15bf27ea55e30df0f0,Pocket Box,Company,1
+c097f034a917efc579a7954c,TD SYNNEX,Company,1
+c0e44b7d22d1da5d453d1e0a,D-Wave,Company,1
+c19a973dc88285a60111d94c,Chiron,Company,1
+c19bbffd42c40ff80ebc853e,Fiserv Inc,Company,1
+c3636f47c5da411b7a884594,Ohio College Tech Prep,Company,1
+c9bc5c7ab9b19d386511dfa5,MTM Technology,Company,1
+d3aaabe603a99b4051430555,Keysight Technologies Inc.,Company,1
+d4aa76fa0092c9f3c7c9c970,AP,Company,1
+d5494c8e505250d05a4ea184,Siemens Technology and Services Pvt. Ltd.,Company,1
+d639019ad5fa008cac962c3f,Scan-Optics,Company,1
+d7ffa47b436ae8dc97db4cc1,Synopsys Inc.,Company,1
+d82a2a86c447707c81675b5a,Synergy Quantum India,Company,1
+dcd0087c1626315dde452689,Synergy Home LLC,Company,1
+e135bdc79949e20488b759c8,Service Experts,Company,1
+e6c3db5c28c9a15bfafd2e04,Apple,Company,1
+e81d7070a24071e78192381e,Tencent Games,Company,1
+fd31d94d1a5421f53cb33735,Sorg Heating and Cooling LLC,Company,1
+047ebee9335b2087b1650b44,Brad Chason,Person,1
+29dfe31b470f3786bec568fe,Pankaj Vyas,Person,1
+646ef02a995758a162220e73,Andrew Chaoya Li,Person,1
+ac24df915ec01283f16c8086,Nicole Herskowitz,Person,1
+b441cb21ad4c1dce10a346c4,Raymond Ma,Person,1
+01365711b23857aa4bae48fa,Laptop,Technology,1
+1d918de55594c719d8f248a6,ChatGPT technology,Technology,1
+2400bf8acb83b96e3973656a,financial technology solutions,Technology,1
+28f90a96dca4fdc30ac39ff4,climate tech incubator,Technology,1
+2e184d314a19130e91b4e161,new open-source language model,Technology,1
+3a0b9f171c10cd7d231f96d0,H2O AI Cloud,Technology,1
+3cb6c6d7a6f473720c1868ec,Google Pay,Technology,1
+40817b83b760fe70a2ff6caf,Google Cloud,Technology,1
+41d8049030801b4416f3b3b3,Quantum computing,Technology,1
+420063bf9a6626f404962ea2,ServiceMax Field Service Management Technology,Technology,1
+448bbd6642dcbc0dbb2cb88d,China Connect,Technology,1
+4a0042a539cf82b98832bd96,humidity sensing,Technology,1
+4ccf2b1022a7cda3c007b5ed,IRIS Outsourcing,Technology,1
+51b4da2e19c1c611815ef4a8,generative AI capabilities,Technology,1
+547b19a06e663a7e4c54b307,Microsoft Office,Technology,1
+54d7bb3634c9d964e616d98e,NativeEdge platform,Technology,1
+58faf73275b336fd01dd49db,OLED display with embedded heart rate sensor,Technology,1
+59a6289966289f0ca1f4971c,IBM Technology,Technology,1
+609f3e74ee8fe1a17835712a,Apple Pay,Technology,1
+627c90afc7e58f22a0637349,Code Llama,Technology,1
+7f81726ffd696a35f2c9422f,Dream Center,Technology,1
+934271022c07755cad9182b0,chips,Technology,1
+a309c29c0994fa887d4b363c,Product Information Management,Technology,1
+a72e32053e0bb1a43fec04da,cybersecurity technology,Technology,1
+ab1aa2c2b352962e1bc6e841,cloud computing service for artificial intelligence,Technology,1
+c9a7d8b97db5dc8a30e5bbb0,Microsoft Azure,Technology,1
+de4659c0a79aab0713bd45fa,Star Micronics latest solutions,Technology,1
+dfaf103884e4f3dc18651858,OX-GPT,Technology,1
+eafc0d15a1b9901111a77850,Copilot,Technology,1
+eb44304566a583825c83537a,SENSORA™ Cardiac Disease Detection Platform,Technology,1
+f77d5cc86b09fa80b611affd,Azure OpenAI Service,Technology,1
+fce37aa0b7a4863e734bfae7,FacctViewTM,Technology,1
+fe6a169aa1c04e0476499e02,SaaS,Technology,1

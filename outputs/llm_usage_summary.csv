@@ -1,0 +1,6 @@
+provider,model,tag,calls,prompt_tokens,completion_tokens,total_tokens,mean_latency_s
+groq,openai/gpt-oss-20b,flat_answer,13,8684,1802,10486,0.77
+groq,openai/gpt-oss-20b,graph_answer,13,11400,2089,13489,0.62
+groq,openai/gpt-oss-20b,seed_extraction,16,3417,1458,4875,0.55
+groq,openai/gpt-oss-20b,smoke_test,1,113,32,145,0.64
+judge_gateway,google/gemma-4-31b-it,judge,25,28709,2502,31211,9.06

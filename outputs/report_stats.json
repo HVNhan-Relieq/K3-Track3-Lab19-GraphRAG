@@ -1,0 +1,54 @@
+{
+  "corpus": {
+    "rows_streamed": 5000,
+    "articles_after_exact_dedup": 2113,
+    "chunks_total": 2113,
+    "mean_words_per_chunk": 42.3,
+    "extraction_chunks": 260,
+    "near_dup_clusters": 102,
+    "near_dup_candidate_pairs": 304
+  },
+  "coref": {
+    "chunks_changed": 88,
+    "unresolved_mentions": 18
+  },
+  "graph": {
+    "nodes": 144,
+    "edges": 99,
+    "invalid_provenance_edges": 0,
+    "triples_raw": 99,
+    "triples_after_er": 99,
+    "max_degree": 8,
+    "p95_degree": 3.0,
+    "nodes_over_100": 0
+  },
+  "entity_resolution": {
+    "audit_rows": 5,
+    "REJECT_THRESHOLD": 4,
+    "MERGE_MANUAL": 1,
+    "reasons": {
+      "BELOW_0.9": 4,
+      "ALIAS_MAP": 1
+    },
+    "threshold": 0.9
+  },
+  "evaluation": {
+    "n_questions": 12,
+    "by_group": {
+      "multi-hop": 4,
+      "cross-doc": 4,
+      "factoid": 4
+    },
+    "winners": {
+      "TIE": 10,
+      "GraphRAG": 2
+    },
+    "no_seed_questions": 1
+  },
+  "cost": {
+    "groq_total_tokens": 28995,
+    "judge_total_tokens": 31211,
+    "throttle_minutes": 0.0,
+    "llm_calls": 68
+  }
+}

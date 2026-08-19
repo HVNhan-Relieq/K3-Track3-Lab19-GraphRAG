@@ -1,0 +1,21 @@
+Loại câu hỏi,n,Metric,Flat RAG,GraphRAG,Delta,Nhận xét phân tích
+cross-doc,4,Comprehensiveness,4.0,5.0,1.0,GraphRAG cải thiện rõ; kiểm tra rationale và provenance.
+cross-doc,4,Faithfulness,5.0,5.0,0.0,Hai phương pháp gần nhau.
+cross-doc,4,Multi-hop reasoning,4.0,5.0,1.0,GraphRAG cải thiện rõ; kiểm tra rationale và provenance.
+cross-doc,4,Latency (s),0.757,1.23,0.473,GraphRAG đắt hơn 1.62x.
+cross-doc,4,Token usage,857.25,1219.5,362.25,GraphRAG đắt hơn 1.42x.
+factoid,4,Comprehensiveness,5.0,5.0,0.0,Hai phương pháp gần nhau.
+factoid,4,Faithfulness,5.0,5.0,0.0,Hai phương pháp gần nhau.
+factoid,4,Multi-hop reasoning,5.0,5.0,0.0,Hai phương pháp gần nhau.
+factoid,4,Latency (s),0.766,1.228,0.461,GraphRAG đắt hơn 1.60x.
+factoid,4,Token usage,765.75,1320.0,554.25,GraphRAG đắt hơn 1.72x.
+multi-hop,4,Comprehensiveness,4.0,5.0,1.0,GraphRAG cải thiện rõ; kiểm tra rationale và provenance.
+multi-hop,4,Faithfulness,5.0,5.0,0.0,Hai phương pháp gần nhau.
+multi-hop,4,Multi-hop reasoning,4.5,5.0,0.5,Hai phương pháp gần nhau.
+multi-hop,4,Latency (s),0.857,1.205,0.348,GraphRAG đắt hơn 1.41x.
+multi-hop,4,Token usage,769.5,1580.75,811.25,GraphRAG đắt hơn 2.05x.
+ALL,12,Comprehensiveness,4.333,5.0,0.667,Hai phương pháp gần nhau.
+ALL,12,Faithfulness,5.0,5.0,0.0,Hai phương pháp gần nhau.
+ALL,12,Multi-hop reasoning,4.5,5.0,0.5,Hai phương pháp gần nhau.
+ALL,12,Latency (s),0.794,1.221,0.427,GraphRAG đắt hơn 1.54x.
+ALL,12,Token usage,797.5,1373.417,575.917,GraphRAG đắt hơn 1.72x.

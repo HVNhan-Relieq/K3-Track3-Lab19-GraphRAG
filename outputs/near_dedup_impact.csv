@@ -1,0 +1,13 @@
+id,group,raw_chunks,raw_distinct_stories,dedup_chunks,dedup_distinct_stories,raw_chars,dedup_chars,extra_stories
+G5000-01,multi-hop,6,6,6,6,1596,1596,0
+G5000-02,cross-doc,6,6,6,6,1766,1766,0
+G5000-03,factoid,6,6,6,6,1684,1684,0
+G5000-04,cross-doc,6,6,6,6,1411,1411,0
+G5000-13,factoid,6,6,6,6,1564,1564,0
+G5000-19,multi-hop,6,6,6,6,1676,1676,0
+G5000-20,cross-doc,6,6,6,6,1716,1716,0
+G5000-21,multi-hop,6,6,6,6,1438,1438,0
+G5000-24,factoid,6,6,6,6,1722,1722,0
+G5000-32,cross-doc,6,6,6,6,1712,1712,0
+G5000-34,multi-hop,6,5,6,5,1747,1747,0
+G5000-47,factoid,6,6,6,6,2057,2057,0

@@ -1,1 +1,6 @@
-
+type,left,right,similarity,decision,reason,left_count
+Company,HPE,Hewlett Packard Enterprise,1.0,MERGE_MANUAL,ALIAS_MAP,1
+Company,Synopsys,Synopsys Inc.,0.8324,REJECT_THRESHOLD,BELOW_0.9,2
+Company,Synergy Quantum India,Synergy Quantum,0.8675,REJECT_THRESHOLD,BELOW_0.9,1
+Technology,ChatGPT technology,ChatGPT,0.876,REJECT_THRESHOLD,BELOW_0.9,1
+Technology,generative AI,generative AI capabilities,0.8565,REJECT_THRESHOLD,BELOW_0.9,2

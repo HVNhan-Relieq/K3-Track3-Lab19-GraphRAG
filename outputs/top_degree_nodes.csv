@@ -1,14 +1,16 @@
 id,name,type,degree
-250c05d94f317765c8851c04,DEWA,Company,2
-26eff00a98da188750817013,Synergy Quantum,Company,1
-43a2b279a035975ab78ed013,IIIT Hyderabad,Company,1
-482e949a0b6c21ca2b8da03e,Infineon,Company,1
-776d89f3866049239e5a9365,Tyemill,Company,1
-7d87b719c7aab894bd5ffd26,Resonac,Company,1
-b48e5b3bde59dfb99454d2b8,Syntax,Company,1
-cc9c6ee3857729e221d3f6de,ServiceNow,Company,1
-d3aaabe603a99b4051430555,Keysight Technologies Inc.,Company,1
-d7ffa47b436ae8dc97db4cc1,Synopsys Inc.,Company,1
-fb0f4df56fab164ec48722f0,Microsoft,Company,1
-55ab5412c4cf9bc541c8954a,large language models,Technology,1
-f4adaa883e92217c80dab7fb,ChatGPT,Technology,1
+cc9c6ee3857729e221d3f6de,ServiceNow,Company,8
+fb0f4df56fab164ec48722f0,Microsoft,Company,5
+773eeb9b7cc008bff365fcdd,OpenAI,Company,4
+909fcd9c188c8c2429afa468,Google Cloud,Company,4
+7b29988cfc0dac3059f47a0e,L&T Technology Services,Company,4
+11a955d3438e7691d3dd9800,Toast,Company,3
+f4adaa883e92217c80dab7fb,ChatGPT,Technology,3
+110cfb16be66531da841ce26,Thales,Company,3
+02f50203f5a967ac3ebb42be,Ericsson,Company,3
+0e132222d1315530d6efca52,Google,Company,3
+1a324b330bd048e7308e53f0,artificial intelligence,Technology,3
+51e33a1bf5fff64b108c76e6,Hewlett Packard Enterprise,Company,2
+0b5463ed9470cd0575a9bcce,TalkBerry,Company,2
+6dbfdfc5a4e8df3668a4dac3,Meta,Company,2
+43a2b279a035975ab78ed013,IIIT Hyderabad,Company,2

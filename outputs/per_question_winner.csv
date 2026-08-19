@@ -1,0 +1,13 @@
+id,group,flat_quality,graph_quality,winner,graph_edges_collected,graph_seeds_matched
+G5000-01,multi-hop,5.0,5.0,TIE,3,2
+G5000-02,cross-doc,5.0,5.0,TIE,3,2
+G5000-03,factoid,5.0,5.0,TIE,3,2
+G5000-04,cross-doc,5.0,5.0,TIE,0,0
+G5000-13,factoid,5.0,5.0,TIE,14,3
+G5000-19,multi-hop,5.0,5.0,TIE,16,4
+G5000-20,cross-doc,5.0,5.0,TIE,7,1
+G5000-21,multi-hop,5.0,5.0,TIE,16,4
+G5000-24,factoid,5.0,5.0,TIE,7,1
+G5000-32,cross-doc,2.3333333333333335,5.0,GraphRAG,8,1
+G5000-34,multi-hop,3.0,5.0,GraphRAG,8,2
+G5000-47,factoid,5.0,5.0,TIE,6,3
