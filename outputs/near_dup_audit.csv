@@ -1,0 +1,305 @@
+left_row,right_row,jaccard,decision,left_title,right_title
+32,182,0.642,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,1423,0.619,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,1804,0.736,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,1894,0.757,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2071,0.618,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2363,0.809,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2501,0.757,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2535,0.662,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2585,0.619,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2605,0.718,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2867,0.75,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2890,0.685,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,2962,0.718,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,3004,0.781,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,3083,0.754,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,3166,0.593,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,3323,0.669,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+32,3374,0.701,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+43,1777,0.964,REDUNDANT,Samsung Showcases Groundbreaking Logic Innovations at System LSI Tech ,Samsung Showcases Groundbreaking Logic Innovations at System LSI Tech 
+104,186,0.694,REJECT_BELOW_THRESHOLD,G Suite Technology Services Market Research Report 2023-2030 | 117 Pag,Technology Research Services Market Analysis Report 2023-2030 | 104 Pa
+152,365,0.631,REJECT_BELOW_THRESHOLD,Fidelity National Information Services Inc. declares $0.52 dividend,Information Services Corporation Non-GAAP EPS of C$0.51 revenue of C$5
+182,1423,0.667,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,1865,0.662,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,1894,0.634,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,2363,0.647,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,2496,0.705,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,2501,0.634,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,2535,0.71,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,2585,0.667,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,2605,0.585,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,2890,0.562,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,2902,0.71,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,3052,0.673,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,3166,0.641,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,3342,0.717,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+182,3360,0.681,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+186,196,0.562,REJECT_BELOW_THRESHOLD,Technology Research Services Market Analysis Report 2023-2030 | 104 Pa,Technology Research Services Market Development Outlook 2023-2030: Bus
+208,3368,0.719,NEAR_DUP_KEEP,Culture Biosciences Focuses Technology and Service Platform on Biologi,Culture Biosciences Focuses Technology and Service Platform on Biologi
+211,1804,0.438,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+211,1852,0.705,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+211,1895,0.544,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+211,2363,0.47,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+211,2906,0.494,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+211,3374,0.572,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+261,265,0.635,REJECT_BELOW_THRESHOLD,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5
+261,891,0.795,NEAR_DUP_KEEP,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5,L T Technology Services and Qualcomm Selected by Thales for Enabling 5
+261,3296,0.815,NEAR_DUP_KEEP,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5
+265,891,0.653,REJECT_BELOW_THRESHOLD,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5,L T Technology Services and Qualcomm Selected by Thales for Enabling 5
+265,3296,0.67,REJECT_BELOW_THRESHOLD,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5
+270,1803,0.748,NEAR_DUP_KEEP,Industrial Services Market Size Information Technology and Competitive,5G Services Market Size Information Technology Growth and Insights
+288,1419,0.995,REDUNDANT,Sensormatic Solutions by Johnson Controls shares 2022 U.S. Super Satur,Sensormatic Solutions by Johnson Controls shares 2022 U.S. Super Satur
+317,1446,0.777,NEAR_DUP_KEEP,Yonyou Auto Information Technology (Shanghai) Co. Ltd.,Information Services Group Inc.
+319,2254,0.642,REJECT_BELOW_THRESHOLD,Computing and Information Sciences Degrees,Computing and Information Sciences
+485,1814,0.634,REJECT_BELOW_THRESHOLD,New technology jobs needed for AI,New technology jobs needed for AI
+602,948,0.84,NEAR_DUP_KEEP,Friday Sector Laggards: Services Technology & Communications,Wednesday Sector Laggards: Services Technology & Communications
+782,1501,0.878,NEAR_DUP_KEEP,Alight launches new behavioral health navigation services aimed at sup,Alight launches new behavioral health navigation services aimed at sup
+794,2328,0.542,REJECT_BELOW_THRESHOLD,Do You Think Fidelity National Information Services (FIS)’s Current Va,Fidelity National Information Services (FIS) Shares Fell on Investors’
+794,3053,0.624,REJECT_BELOW_THRESHOLD,Do You Think Fidelity National Information Services (FIS)’s Current Va,Here’s Why Fidelity National Information Services (FIS) Missed its Fin
+795,3059,0.903,NEAR_DUP_KEEP,Degrees & Pathways,Human Services Technology: Addiction and Recovery Studies AAS
+885,1004,0.825,NEAR_DUP_KEEP,Information Services Group Inc. (NASDAQ:III) is a favorite amongst ins,Information Services Group Inc. (NASDAQ:III) is a favorite amongst ins
+891,3296,0.913,NEAR_DUP_KEEP,L T Technology Services and Qualcomm Selected by Thales for Enabling 5,L&T Technology Services and Qualcomm Selected by Thales for Enabling 5
+944,4100,1.0,REDUNDANT,CereCore® expands healthcare technology services into the UK,CereCore expands healthcare technology services into the UK
+958,1834,0.614,REJECT_BELOW_THRESHOLD,Securing the Information and Communications Technology and Services Su,Information Technology and Telecommunications Guidelines for Federal T
+960,2094,0.96,REDUNDANT,Esri Signs Agreement with Malta Providing Access to GIS Technology Tra,Esri Signs Agreement with Malta Providing Access to GIS Technology Tra
+1177,2590,0.874,NEAR_DUP_KEEP,What are some of the latest trends and innovations in VPN technology a,What are some of the latest trends and innovations in VPN technology a
+1222,3125,0.92,NEAR_DUP_KEEP,The Institution of Engineering and Technology (IET) successfully concl,The Institution of Engineering and Technology (IET) successfully concl
+1423,1894,0.609,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,2208,0.7,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,2363,0.623,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,2496,0.681,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,2501,0.609,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,2585,0.645,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,2605,0.566,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,2624,0.667,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,2902,0.685,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,3052,0.641,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,3166,0.62,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,3342,0.681,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,3360,0.658,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1423,3439,0.707,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1427,2516,0.833,NEAR_DUP_KEEP,RBC Capital Maintains Fidelity National Information Services (FIS) Out,Baird Maintains Fidelity National Information Services (FIS) Outperfor
+1470,2460,0.856,NEAR_DUP_KEEP,US announces criminal cases involving flow of technology information t,US announces criminal cases involving flow of technology information t
+1470,3710,0.963,REDUNDANT,US announces criminal cases involving flow of technology information t,US Announces Criminal Cases Involving Flow of Technology Information t
+1523,3265,0.84,NEAR_DUP_KEEP,Fidelity National Information Services (FIS) Stock Moves -0.9%: What Y,Fidelity National Information Services (FIS) Stock Moves -0.9%: What Y
+1720,2073,0.733,NEAR_DUP_KEEP,Tech industry job cuts come rapidly and in big numbers,Tech industry job cuts come rapidly and in big numbers
+1785,3306,0.884,NEAR_DUP_KEEP,INFORMATION SERVICES GROUP INC,INFORMATION SERVICES GROUP INC
+1803,1819,0.676,REJECT_BELOW_THRESHOLD,5G Services Market Size Information Technology Growth and Insights,Interactive and Self Service Kiosk Market Size Information Technology 
+1804,1894,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,1895,0.614,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,2071,0.578,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,2224,0.679,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,2363,0.742,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,2501,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,2605,0.756,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,2906,0.559,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,2962,0.664,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,3004,0.718,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,3083,0.695,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,3163,0.647,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,3342,0.621,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1804,3374,0.65,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1839,2992,0.971,REDUNDANT,Why Operators Need a Full-Service Technology Partner,Restaurant Tech: Why Operators Need a Full-Service Technology Partner
+1852,2854,0.653,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1865,2489,0.838,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1865,2496,0.676,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1865,2535,0.681,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1865,3052,0.636,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1865,3305,0.628,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1865,3348,0.799,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1865,3360,0.653,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2071,0.574,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2224,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2363,0.765,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2501,1.0,REDUNDANT,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2535,0.655,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2585,0.609,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2605,0.672,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2867,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2890,0.639,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2906,0.655,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,2962,0.672,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,3004,0.736,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,3083,0.709,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,3163,0.639,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,3166,0.582,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,3323,0.624,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1894,3374,0.655,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1895,2071,0.691,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1895,2363,0.664,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1895,2854,0.686,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1895,2906,0.678,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1895,3374,0.778,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+1965,2578,0.797,NEAR_DUP_KEEP,Australian Firms Embrace Hybrid Clouds for Transformation,More Brazilian Firms Are Turning to Hybrid Clouds for Help
+1965,2600,0.755,NEAR_DUP_KEEP,Australian Firms Embrace Hybrid Clouds for Transformation,Cautious U.S. Firms Still Seeking Benefits of Hybrid Clouds
+2071,2224,0.578,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,2363,0.622,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,2494,0.603,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,2501,0.574,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,2605,0.567,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,2906,0.671,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,2962,0.567,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,3163,0.546,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,3286,0.7,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2071,3374,0.729,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2090,4922,1.0,REDUNDANT,Who keeps calling me? Look up numbers flagged as potential robocalls o,Who keeps calling me? Look up numbers flagged as potential robo-calls 
+2201,3139,0.675,REJECT_BELOW_THRESHOLD,Dragos Launches OT Cyber Industry’s Only Global Partner Program to Spa,Dragos Launches OT Cyber Industry''s Only Global Partner Program to Sp
+2204,3514,0.698,REJECT_BELOW_THRESHOLD,Best Live TV Streaming Service for Cord Cutters in 2023,How We Test Products and Services
+2208,2489,0.705,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,2496,0.742,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,2535,0.748,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,2585,0.7,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,2624,0.726,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,2902,0.748,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,2989,0.705,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,3052,0.707,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,3305,0.685,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,3342,0.756,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,3360,0.715,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2208,3439,0.695,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2210,4441,0.908,NEAR_DUP_KEEP,CUPP to Service Chiefs: Adopt technology strategy to tackle Nigeria’s ,CUPP to New Service Chiefs: Adopt technology strategy to tackle securi
+2224,2363,0.742,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2224,2501,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2224,2605,0.664,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2224,2906,0.559,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2224,2962,0.664,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2224,3004,0.718,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2224,3083,0.695,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2224,3163,0.636,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2224,3374,0.65,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2328,3053,0.574,REJECT_BELOW_THRESHOLD,Fidelity National Information Services (FIS) Shares Fell on Investors’,Here’s Why Fidelity National Information Services (FIS) Missed its Fin
+2344,2605,0.554,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,2501,0.765,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,2535,0.68,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,2585,0.623,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,2605,0.724,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,2867,0.742,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,2890,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,2906,0.604,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,2962,0.752,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,3004,0.788,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,3083,0.761,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,3163,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,3166,0.597,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,3323,0.674,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2363,3374,0.706,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2460,3710,0.873,NEAR_DUP_KEEP,US announces criminal cases involving flow of technology information t,US Announces Criminal Cases Involving Flow of Technology Information t
+2489,2496,0.685,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2489,2624,0.671,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2489,3052,0.645,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2489,3305,0.636,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2489,3348,0.81,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2489,3360,0.662,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2494,3286,0.644,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2494,3374,0.669,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,2535,0.726,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,2585,0.681,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,2624,0.705,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,2902,0.726,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,3052,0.676,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,3166,0.653,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,3305,0.667,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,3342,0.721,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,3360,0.695,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2496,3439,0.676,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,2535,0.655,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,2585,0.609,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,2605,0.672,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,2867,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,2890,0.639,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,2906,0.655,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,2962,0.672,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,3004,0.736,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,3083,0.709,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,3163,0.639,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,3166,0.582,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,3323,0.624,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2501,3374,0.655,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2508,3099,1.0,REDUNDANT,411 is going out of service for millions of Americans,411 is going out of service for millions of Americans
+2532,2537,0.798,NEAR_DUP_KEEP,Exclusive: Amazon has drawn thousands to try its AI service competing ,Amazon has drawn thousands to try its AI service competing with Micros
+2535,2585,0.685,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,2890,0.577,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,2902,0.731,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,2989,0.69,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,3052,0.692,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,3166,0.658,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,3305,0.671,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,3342,0.726,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,3360,0.712,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2535,3439,0.681,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,2605,0.566,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,2624,0.667,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,2902,0.685,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,2989,0.649,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,3052,0.641,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,3166,0.641,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,3305,0.632,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,3342,0.681,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,3360,0.658,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2585,3439,0.641,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2605,2867,0.664,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2605,2906,0.547,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2605,2962,0.65,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2605,3004,0.701,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2605,3163,0.634,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2605,3166,0.554,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2605,3374,0.636,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2624,2902,0.71,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2624,3305,0.653,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2624,3342,0.705,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2624,3439,0.662,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2820,3957,0.913,NEAR_DUP_KEEP,Best VoIP Services (July 2023),Best VoIP Services (October 2023)
+2852,3920,0.943,REDUNDANT,411 phone number is going out of service for millions of Americans,411 is going out of service for millions of Americans
+2854,3374,0.701,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2854,3495,0.523,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2867,2962,0.664,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2867,3004,0.718,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2867,3083,0.709,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2867,3323,0.634,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2902,3052,0.681,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2902,3305,0.694,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2902,3342,0.726,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2902,3360,0.7,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2902,3439,0.692,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2906,2962,0.547,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2906,3163,0.526,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2906,3286,0.688,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2906,3374,0.719,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2962,3004,0.701,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2962,3083,0.679,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2962,3163,0.622,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2962,3323,0.61,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2962,3374,0.636,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2989,3052,0.645,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2989,3342,0.685,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+2989,3360,0.662,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3004,3083,0.736,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3004,3323,0.654,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3052,3166,0.616,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3052,3305,0.628,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3052,3342,0.688,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3052,3348,0.656,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3052,3360,0.664,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3083,3163,0.712,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3083,3323,0.832,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3083,3374,0.664,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3163,3323,0.826,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3163,3374,0.61,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3166,3305,0.619,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3166,3342,0.653,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3286,3374,0.789,NEAR_DUP_KEEP,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3290,3412,0.935,REDUNDANT,Stock market today: Wall Street is mixed; Big Tech climbs,Stock market today: Wall Street is mixed; Big Tech climbs
+3305,3342,0.667,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3305,3348,0.636,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3305,3360,0.645,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3305,3439,0.639,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3325,3883,0.779,NEAR_DUP_KEEP,Spam calls/texts have increased so can they be stopped?,Spam calls/texts have increased so can they be stopped?
+3342,3360,0.695,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3342,3439,0.676,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3348,3360,0.662,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3360,3439,0.653,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3374,3495,0.593,REJECT_BELOW_THRESHOLD,Tech Media & Telecom Roundup: Market Talk,Tech Media & Telecom Roundup: Market Talk
+3422,3438,0.327,REJECT_BELOW_THRESHOLD,Best cloud computing services of 2023,Best cloud computing services of 2023
+3795,4372,0.821,NEAR_DUP_KEEP,Knicks rally to beat Pacers 109-106 for 7th straight victory,Knicks rally to beat Pacers 109-106 for 7th straight victory
+4094,4766,0.835,NEAR_DUP_KEEP,UKG Celebrates 2022 Technology and Service Partners of the Year,UKG Celebrates 2022 Technology and Service Partners of the Year

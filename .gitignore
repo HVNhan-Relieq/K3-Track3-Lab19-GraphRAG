@@ -27,3 +27,8 @@ golden_dataset.csv
 # OS files
 .DS_Store
 Thumbs.db
+
+# Lab 19 local run artifacts
+data/hackernoon_subset.csv
+outputs/cache/
+.env.bak.orig
